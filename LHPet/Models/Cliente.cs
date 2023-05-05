@@ -16,6 +16,4 @@ public class Cliente
         this.Email = email;
         this.Paciente = paciente;
     }
-    
-}
- 
+} 
